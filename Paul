@@ -1,5 +1,5 @@
 {"android_version_code":"1.1","apk_url":"https://iboiptv.com/upload/android_1.1.apk","mac_registered":true,
-"urls":[{"url":"http://user.scalecdn.co:8080","epg_url":"",
+"urls":[{"url":"http://realsport.scalecdn.co:8080/","epg_url":"",
 "playlist_name":"scale",
 "username":"smadmin",
 "password":"VX2rWpIxBK","playlist_type":"xc","id":"demo","origin_type":"xc","origin_url":""},
