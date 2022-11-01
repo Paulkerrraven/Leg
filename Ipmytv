@@ -1,16 +1,16 @@
 {
-  "subscription": "Free Trial",
+  "subscription": "burning legend",
   "expireDate": {
-    "date": "2022-11-11 00:00:00.000000",
+    "date": "2069-11-11 00:00:00.000000",
     "timezone_type": 3,
     "timezone": "UTC"
   },
-  "isLifeTime": false,
+  "isLifeTime": true,
   "country": "GB",
   "error": false,
   "urlAPK": "https://ipmytv.com",
   "version": "2.0.0",
-  "smallMessage": "Your free trial expires in 9 days, we invite you to upgrade your subscription at : https://ipmytv.com.",
+  "smallMessage": "the legend doesn't make iptv but if he did it would probably be the best.",
   "deviceId": 24253,
   "message": "success",
   "result": [
@@ -18,6 +18,21 @@
       "id": 119273,
       "title": "Tee",
       "fileURL": "http://teeveetv.one:2052/get.php?username\u003djasonevansline\u0026password\u003d0jyvB88Sj6\u0026type\u003dm3u_plus\u0026output\u003dts",
+      "isLocallyStored": false
+    },{
+      "id": 119273,
+      "title": "eucable",
+      "fileURL": "http://eucable.net:80/get.php?username=easy73348&password=restream10068&type=m3u_plus&output=ts",
+      "isLocallyStored": false
+    },{
+      "id": 119273,
+      "title": "rapid",
+      "fileURL": "http://rapid-media.me:2095/get.php?username=haJdZt9s&password=gxBe65Eu&type=m3u_plus&output=ts",
+      "isLocallyStored": false
+    },{
+      "id": 119273,
+      "title": "boxlion",
+      "fileURL": "http://login.boxlion.nl:80/get.php?username=Euro.iptv12&password=Euroiptv123&type=m3u_plus",
       "isLocallyStored": false
     }
   ]
