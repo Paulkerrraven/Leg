@@ -1,0 +1,10 @@
+{"subscription":"Free Trial",
+"expireDate":{"date":"2022-11-11 00:00:00.000000",
+"timezone_type":3,"timezone":"UTC"},
+"isLifeTime":false,"country":"GB",
+"error":false,"urlAPK":"https:\/\/ipmytv.com","version":"2.0.0",
+"smallMessage":"Your free trial expires in 9 days, we invite you to upgrade your subscription at : https:\/\/ipmytv.com.",
+"deviceId":24253,
+"message":"success",
+"result":[{"id":119273,"title":"Tee","fileURL":"http:\/\/teeveetv.one:2052\/get.php?username=jasonevansline\u0026password=0jyvB88Sj6\u0026type=m3u_plus\u0026output=ts",
+"isLocallyStored":false}]}
