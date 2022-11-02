@@ -61,6 +61,11 @@
       "isLocallyStored": false
     },{
       "id": 119273,
+      "title": "movies2",
+      "fileURL": "http://appleiptv.com:80/get.php?username=ShahbazENMov&password=ShahbazENMov&type=m3u_plus&output=ts",
+      "isLocallyStored": false
+    },{
+      "id": 119273,
       "title": "boxlion2",
       "fileURL": "http://login.boxlion.nl:80/get.php?username=ahmetberlin&password=sMbyXzX72cfsgs78&type=m3u_plus",
       "isLocallyStored": false
