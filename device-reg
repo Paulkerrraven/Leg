@@ -25,6 +25,28 @@
     "realtime": 1,
     "urls": [
       {
+        "_id": "636169e781651e49c5967d18",
+        "device_id": "635fcea514b4625fe4635412",
+        "url": "http://v3.tvset.top/get.php?username\u003dxtreamui\u0026password\u003dm9AnG77y\u0026type\u003dm3u_plus\u0026output\u003dts",
+        "playlist_name": "Kdjd",
+        "username": "",
+        "password": "",
+        "epg_url": "",
+        "is_protected": 0,
+        "pin": ""
+      },
+      {
+        "_id": "63616a3c81651e49c59688d9",
+        "device_id": "635fcea514b4625fe4635412",
+        "url": "http://v3.tvset.top/get.php?username\u003dxtreamui\u0026password\u003dm9AnG77y\u0026type\u003dm3u_plus\u0026output\u003dts",
+        "playlist_name": "Kdjdsd",
+        "username": "",
+        "password": "",
+        "epg_url": "",
+        "is_protected": 0,
+        "pin": ""
+      },
+      {
         "_id": "99999999",
         "device_id": "9999999999",
         "playlist_name": "Demo Url",
