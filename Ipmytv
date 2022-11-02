@@ -66,6 +66,11 @@
       "isLocallyStored": false
     },{
       "id": 119273,
+      "title": "movies3",
+      "fileURL": "http://spiderbox.info/iptv/HiTech/list1.m3u",
+      "isLocallyStored": false
+    },{
+      "id": 119273,
       "title": "boxlion2",
       "fileURL": "http://login.boxlion.nl:80/get.php?username=ahmetberlin&password=sMbyXzX72cfsgs78&type=m3u_plus",
       "isLocallyStored": false
