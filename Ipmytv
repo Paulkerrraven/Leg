@@ -21,6 +21,21 @@
       "isLocallyStored": false
     },{
       "id": 119273,
+      "title": "crown",
+      "fileURL": "http://crowntv.xyz:80/get.php?username=GURM12311&password=fd081d0265e9e2d1215cfb8617c6098b&type=m3u_plus",
+      "isLocallyStored": false
+    },{
+      "id": 119273,
+      "title": "obsfull",
+      "fileURL": "http://obsfullhd.tv:25461/get.php?username=Sonixex&password=PkhE2LfUBn3L&type=m3u_plus",
+      "isLocallyStored": false
+    },{
+      "id": 119273,
+      "title": "365tv",
+      "fileURL": "http://line.365tv.xyz:8060/get.php?username=HomeTV&password=ffdgbr564646hghngytrtt&type=m3u_plus&output=m3u8",
+      "isLocallyStored": false
+    },{
+      "id": 119273,
       "title": "eucable",
       "fileURL": "http://eucable.net:80/get.php?username=easy73348&password=restream10068&type=m3u_plus&output=ts",
       "isLocallyStored": false
@@ -28,6 +43,11 @@
       "id": 119273,
       "title": "rapid",
       "fileURL": "http://rapid-media.me:2095/get.php?username=haJdZt9s&password=gxBe65Eu&type=m3u_plus&output=ts",
+      "isLocallyStored": false
+    },{
+      "id": 119273,
+      "title": "boxlion2",
+      "fileURL": "http://login.boxlion.nl:80/get.php?username=ahmetberlin&password=sMbyXzX72cfsgs78&type=m3u_plus",
       "isLocallyStored": false
     },{
       "id": 119273,
