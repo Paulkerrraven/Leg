@@ -46,6 +46,21 @@
       "isLocallyStored": false
     },{
       "id": 119273,
+      "title": "master arb",
+      "fileURL": "http://master3arb.com:8080/get.php?username=Dwabash&password=pZG2TvI9Ts&type=m3u_plus&output=ts",
+      "isLocallyStored": false
+    },{
+      "id": 119273,
+      "title": "glass",
+      "fileURL": "http://main-url.glass-iptv.xyz:39512/get.php?username=c-codes.net_skype&password=apmwqUWShXFr&type=m3u_plus",
+      "isLocallyStored": false
+    },{
+      "id": 119273,
+      "title": "movie",
+      "fileURL": "http://stbstore.com:80/get.php?username=Ammar&password=Ammarmov&type=m3u_plus&output=ts",
+      "isLocallyStored": false
+    },{
+      "id": 119273,
       "title": "boxlion2",
       "fileURL": "http://login.boxlion.nl:80/get.php?username=ahmetberlin&password=sMbyXzX72cfsgs78&type=m3u_plus",
       "isLocallyStored": false
