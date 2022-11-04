@@ -1,5 +1,5 @@
 {"playlist getting time":0.0012919902801514,"mac_registered":true,
-"urls":[{"http://flixiptv.cc/demo.m3u"},{htp://vip.itvdom.com:25443/get.php?username=HAJG6&password=k7bKPqg05y&type=m3u_plus}],
+"urls":[{"http://flixiptv.cc/demo.m3u"},{"http://vip.itvdom.com:25443/get.php?username=HAJG6&password=k7bKPqg05y&type=m3u_plus"}],
 "themes":[{"name":"Gif Edition",
 "url":"https://www.dropbox.com/s/z7n392byyzy59jf/wp2758145-gif-wallpaper.gif?raw=1"},
 {"name":"Purple / Blue","url":"https://th.bing.com/th/id/R.26584f02daaa24da0ee118f8e62c1eed?rik=wcHpMpIAMmOD7Q&pid=ImgRaw&r=0"},
