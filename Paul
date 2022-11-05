@@ -1,6 +1,6 @@
 {"android_version_code":"1.1","apk_url":"https://iboiptv.com/upload/android_1.1.apk","mac_registered":true,
 "urls":[{"url":"http://spiderbox.info/iptv/HiTech/list1.m3u","playlist_name":"Yhu","username":"","password":"","epg_url":"","playlist_type":"general","origin_type":"general","origin_url":"http://spiderbox.info/iptv/HiTech/list1.m3u"},
-,{"url":"http://smetv.site:8080/get.php?username=Steve2022&password=NMhAbuDJ&type=m3u_plus&output=ts","playlist_name":"sme","username":"","password":"","epg_url":"","playlist_type":"general","origin_type":"general","origin_url":"http://smetv.site:8080/get.php?username=Steve2022&password=NMhAbuDJ&type=m3u_plus&output=ts"},
+{"url":"http://smetv.site:8080/get.php?username=Steve2022&password=NMhAbuDJ&type=m3u_plus&output=ts","playlist_name":"sme","username":"","password":"","epg_url":"","playlist_type":"general","origin_type":"general","origin_url":"http://smetv.site:8080/get.php?username=Steve2022&password=NMhAbuDJ&type=m3u_plus&output=ts"},
 {"url":"http://saw.duplex-ott.net:2052/",
 "playlist_name":"yhy@","username":"N@DO@","password":"NVncJuu2XH","epg_url":"","playlist_type":"xc","origin_type":"general","origin_url":"http://saw.duplex-ott.net:2052/get.php?username=N@DO@&password=NVncJuu2XH&type=m3u"},
 {"url":"http://v3.tvset.top","epg_url":"",
