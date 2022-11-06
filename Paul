@@ -31,6 +31,10 @@
 "playlist_name":"mains vip","username":"","password":"","epg_url":"","playlist_type":"general","origin_type":"general",
 "origin_url":"http://mains.vip:2086/get.php?username=vodpan2log2g4&password=agd62g3j4lxy3er2fr33f5&type=m3u_plus&output=ts"},
 
+{"url":"http://4kplus.org/get.php?username=focuspanel&password=p6j4DZ9rFK&type=m3u",
+"playlist_name":"4k plus","username":"","password":"","epg_url":"","playlist_type":"general","origin_type":"general",
+"origin_url":"http://4kplus.org/get.php?username=focuspanel&password=p6j4DZ9rFK&type=m3u"},
+
 {"url":"http://saw.duplex-ott.net:2052/",
 "playlist_name":"duplex","username":"N@DO@","password":"NVncJuu2XH","epg_url":"","playlist_type":"xc","origin_type":"general","origin_url":"http://saw.duplex-ott.net:2052/get.php?username=N@DO@&password=NVncJuu2XH&type=m3u"},
 
@@ -41,6 +45,11 @@
 "playlist_name":"v3tvset",
 "username":"xtreamui",
 "password":"m9AnG77y","playlist_type":"xc","id":"demo","origin_type":"xc","origin_url":""},
+
+{"url":"http://tv.iptvforver.com:25461","epg_url":"",
+"playlist_name":"iptv forever",
+"username":"BST7pEDqKM",
+"password":"GcvkE4EpaQ1","playlist_type":"xc","id":"demo","origin_type":"xc","origin_url":""},
 
 {"url":"http://divine.ddns.me:8080","epg_url":"",
 "playlist_name":"divine",
