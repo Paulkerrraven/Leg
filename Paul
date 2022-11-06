@@ -23,6 +23,14 @@
 "playlist_name":"teetv5","username":"","password":"","epg_url":"","playlist_type":"general","origin_type":"general",
 "origin_url":"http://teeveetv.one:2052/get.php?username=mehtest&password=n6lHyWwK6G&type=m3u_plus"},
 
+{"url":"http://medialivetv.co:8080/get.php?username=bestsadsadsaxd7171&password=TLWHasdasdaYWf&type=m3u_plus&output=ts",
+"playlist_name":"medialive","username":"","password":"","epg_url":"","playlist_type":"general","origin_type":"general",
+"origin_url":"http://medialivetv.co:8080/get.php?username=bestsadsadsaxd7171&password=TLWHasdasdaYWf&type=m3u_plus&output=ts"},
+
+{"url":"http://mains.vip:2086/get.php?username=vodpan2log2g4&password=agd62g3j4lxy3er2fr33f5&type=m3u_plus&output=ts",
+"playlist_name":"mains vip","username":"","password":"","epg_url":"","playlist_type":"general","origin_type":"general",
+"origin_url":"http://mains.vip:2086/get.php?username=vodpan2log2g4&password=agd62g3j4lxy3er2fr33f5&type=m3u_plus&output=ts"},
+
 {"url":"http://saw.duplex-ott.net:2052/",
 "playlist_name":"duplex","username":"N@DO@","password":"NVncJuu2XH","epg_url":"","playlist_type":"xc","origin_type":"general","origin_url":"http://saw.duplex-ott.net:2052/get.php?username=N@DO@&password=NVncJuu2XH&type=m3u"},
 
