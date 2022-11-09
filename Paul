@@ -7,6 +7,10 @@
 "playlist_name":"sme","username":"","password":"","epg_url":"","playlist_type":"general","origin_type":"general",
 "origin_url":"http://smetv.site:8080/get.php?username=Steve2022&password=NMhAbuDJ&type=m3u_plus&output=ts"},
 
+{"url":"http://starshare.live:8080/get.php?username=k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2&password=so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1&type=m3u_plus",
+"playlist_name":"starshare","username":"","password":"","epg_url":"","playlist_type":"general","origin_type":"general",
+"origin_url":"http://starshare.live:8080/get.php?username=k2u@9-_-_-9@909isdl19edj32e8jd3IJED2OUJ99edijjj294dj28uduioj2&password=so28djKJS2U9isk@37d_----___38sj2ojd28djkdj2dukqISXO2Jlkxqoue1&type=m3u_plus"},
+
 {"url":"http://teeveetv.one:2052/get.php?username=reecetest&password=TeY5oYCjcG&type=m3u_plus",
 "playlist_name":"teetv2","username":"","password":"","epg_url":"","playlist_type":"general","origin_type":"general",
 "origin_url":"http://teeveetv.one:2052/get.php?username=reecetest&password=TeY5oYCjcG&type=m3u_plus"},
