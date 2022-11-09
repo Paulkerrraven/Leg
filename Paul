@@ -103,6 +103,14 @@
 "username":"AnTuKdIreCts647479",
 "password":"VUF6kK3DnyPS","playlist_type":"xc","id":"demo","origin_type":"xc","origin_url":""},
 
+{"url":"http://31.14.41.118:8080/get.php?username=blacktop&password=k7S96HKftq&type=m3u_plus&output=ts",
+"playlist_name":"31","username":"","password":"","epg_url":"","playlist_type":"general","origin_type":"general",
+"origin_url":"http://31.14.41.118:8080/get.php?username=blacktop&password=k7S96HKftq&type=m3u_plus&output=ts"},
+
+{"url":"http://iptv-rks.com:25461/get.php?username=Leonard.rks&password=0041788268343&type=m3u_plus",
+"playlist_name":"iptvrks","username":"","password":"","epg_url":"","playlist_type":"general","origin_type":"general",
+"origin_url":"http://iptv-rks.com:25461/get.php?username=Leonard.rks&password=0041788268343&type=m3u_plus"},
+
 {"url":"http://p2052.securepoint.io:2052","epg_url":"",
 "playlist_name":"secure",
 "username":"MrcrAb8363788",
